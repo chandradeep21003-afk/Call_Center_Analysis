@@ -151,4 +151,5 @@ This Power BI dashboard was developed to monitor the operational performance of 
 
 **Chandradeep Singh**
 
-GitHub: **chandradeep21003-afk**
+**GitHub:** [chandradeep21003-afk](https://github.com/chandradeep21003-afk)
+
