@@ -1,8 +1,3 @@
-# 📊 Call Center Performance Dashboard | Power BI
-
-An interactive Power BI dashboard analyzing customer service operations of a USA-based call center. The report provides insights into call volume, response efficiency, customer sentiment, communication channels, and geographic distribution.
-
----
 
 ## Dashboard Preview
 
