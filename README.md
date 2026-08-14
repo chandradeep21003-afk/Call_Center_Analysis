@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing customer service operations of a USA
 
 ## Dashboard Preview
 
-![Call Center Dashboard](Assets/Dashboard.png)
+![Call Center Dashboard](Call_center_analysis.png)
 
 ---
 
